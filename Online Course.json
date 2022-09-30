@@ -123,7 +123,13 @@
         "courseLink" : "https://www.simplilearn.com/java-full-stack-developer-certification-training-course?tag=Advance%20java"
     },
 
-    
+     {
+
+        "id" : "99",
+        "courseName" : " Introduction to kotlin",
+        "platform" : "coursera",
+        "courseLink" : "https://www.coursera.org/lecture/kotlin-for-java-developers/developing-kotlin-GB6SU"
+    }
     
 
 ]
